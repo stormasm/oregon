@@ -1,5 +1,4 @@
-[bowers rock state park albany]
-(https://www.gazettetimes.com/news/local/bowers-rock-oregon-state-parks-hidden-gem/article_87261e40-28fa-57e1-b086-29a650371703.html)
+[bowers rock state park albany](https://www.gazettetimes.com/news/local/bowers-rock-oregon-state-parks-hidden-gem/article_87261e40-28fa-57e1-b086-29a650371703.html)
 
 ### Bowers Rock: Oregon state parks' hidden gem
 Dec 21, 2014
