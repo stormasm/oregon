@@ -1,8 +1,7 @@
-bowers rock state park albany
+[bowers rock state park albany]
+(https://www.gazettetimes.com/news/local/bowers-rock-oregon-state-parks-hidden-gem/article_87261e40-28fa-57e1-b086-29a650371703.html)
 
-https://www.gazettetimes.com/news/local/bowers-rock-oregon-state-parks-hidden-gem/article_87261e40-28fa-57e1-b086-29a650371703.html
-
-Bowers Rock: Oregon state parks' hidden gem
+### Bowers Rock: Oregon state parks' hidden gem
 Dec 21, 2014
 
 About a mile west of Albany, along the Willamette River, sits a 568-acre state park, a scenic locale with riparian forests, sloughs and side channels.
