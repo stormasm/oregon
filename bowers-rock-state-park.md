@@ -156,3 +156,11 @@ But Dennis Wiley from the Oregon Parks and Recreation Department said that it sh
 “It could possibly have been a typo,” he added.
 “Oregon Geographic Names” may provide an answer as to who the park is named after, however.
 The book’s entry on Bowers Slough states that two pioneer brothers with the last name Bowers lived near the waterway, about four miles west of Albany.
+
+#### References
+
+http://www.calapooia.org/projects/bowers-rock-state-park-restoration/
+
+https://hh-today.com/any-change-at-bowers-rock/
+
+https://hh-today.com/bowers-rock-state-park-promising-signs/
